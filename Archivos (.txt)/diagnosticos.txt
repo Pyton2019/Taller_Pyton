@@ -1,0 +1,210 @@
+Presión Arterial
+Enero
+10678936-9,Carl Tolchar,HIPERTENSIÓN
+20888040-9,Farly Rushe,NORMAL
+10397142-7,Hinda Baskerfield,HIPERTENSIÓN
+18111299-6,Salomo McGuiney,NORMAL
+23024912-6,Maren De Benedetti,NORMAL
+25659095-7,Bree Gainsford,HIPERTENSIÓN
+16616220-9,Christine Davidovitz,NORMAL
+11833915-9,Ronica Bathersby,NORMAL
+11399719-3,Alister Callow,NORMAL
+18224018-5,Tersina Bradley,NORMAL
+28138285-0,Nickola Barrowcliff,HIPERTENSIÓN
+18142755-8,Rafa McEniry,HIPERTENSIÓN
+19102658-3,Marven Yardley,PRECAUCIÓN
+Febrero
+10678936-9,Carl Tolchar,PRECAUCIÓN
+20785102-9,Cointon Slayford,PRECAUCIÓN
+24876065-1,Roscoe Seckington,HIPERTENSIÓN
+28493781-1,Humfried Isacq,NORMAL
+11448563-0,Koral Norval,PRECAUCIÓN
+20808830-4,Baird Mannock,NORMAL
+20891453-4,Maurine Heinert,NORMAL
+19102658-3,Marven Yardley,NORMAL
+Marzo
+10397142-7,Hinda Baskerfield,PRECAUCIÓN
+25700422-3,Vance Lippett,NORMAL
+23024912-6,Maren De Benedetti,PRECAUCIÓN
+20173982-1,Celle Rebeiro,HIPERTENSIÓN
+14683950-9,Jerrilee Elsop,PRECAUCIÓN
+Abril
+10397142-7,Hinda Baskerfield,NORMAL
+16616220-9,Christine Davidovitz,PRECAUCIÓN
+11833915-9,Ronica Bathersby,PRECAUCIÓN
+11448563-0,Koral Norval,NORMAL
+10474476-9,Lamar Harflete,HIPERTENSIÓN
+17920791-5,Josiah Rosborough,PRECAUCIÓN
+Mayo
+18111299-6,Salomo McGuiney,PRECAUCIÓN
+25659095-7,Bree Gainsford,NORMAL
+17151974-7,Stephani Leftley,HIPERTENSIÓN
+26121712-5,Lormina Keeping,PRECAUCIÓN
+Junio
+10678936-9,Carl Tolchar,PRECAUCIÓN
+17151974-7,Stephani Leftley,PRECAUCIÓN
+11833915-9,Ronica Bathersby,NORMAL
+20808830-4,Baird Mannock,NORMAL
+Julio
+20785102-9,Cointon Slayford,NORMAL
+20173982-1,Celle Rebeiro,PRECAUCIÓN
+20542889-6,Monti Noot,PRECAUCIÓN
+28138285-0,Nickola Barrowcliff,NORMAL
+10474476-9,Lamar Harflete,PRECAUCIÓN
+18142755-8,Rafa McEniry,HIPERTENSIÓN
+19102658-3,Marven Yardley,PRECAUCIÓN
+Agosto
+29490575-6,Beilul Shalloo,PRECAUCIÓN
+20173982-1,Celle Rebeiro,NORMAL
+Septiembre
+10678936-9,Carl Tolchar,NORMAL
+29730511-9,Annis Pisculli,PRECAUCIÓN
+11768797-1,Fairlie Benfell,HIPERTENSIÓN
+11216322-1,Kelsy Dibble,NORMAL
+14683950-9,Jerrilee Elsop,HIPERTENSIÓN
+10474476-9,Lamar Harflete,NORMAL
+Octubre
+29730511-9,Annis Pisculli,HIPERTENSIÓN
+24876065-1,Roscoe Seckington,PRECAUCIÓN
+29490575-6,Beilul Shalloo,NORMAL
+28138285-0,Nickola Barrowcliff,PRECAUCIÓN
+19102658-3,Marven Yardley,PRECAUCIÓN
+Noviembre
+Diciembre
+25659095-7,Bree Gainsford,PRECAUCIÓN
+29730511-9,Annis Pisculli,NORMAL
+11768797-1,Fairlie Benfell,NORMAL
+11216322-1,Kelsy Dibble,PRECAUCIÓN
+14683950-9,Jerrilee Elsop,PRECAUCIÓN
+18142755-8,Rafa McEniry,HIPERTENSIÓN
+19102658-3,Marven Yardley,PRECAUCIÓN
+Colesterol
+Enero
+10397142-7,Hinda Baskerfield,PRECAUCIÓN
+29730511-9,Annis Pisculli,NORMAL
+17151974-7,Stephani Leftley,PRECAUCIÓN
+11833915-9,Ronica Bathersby,NORMAL
+20173982-1,Celle Rebeiro,RIESGOSO
+11448563-0,Koral Norval,NORMAL
+20808830-4,Baird Mannock,NORMAL
+14683950-9,Jerrilee Elsop,RIESGOSO
+17920791-5,Josiah Rosborough,NORMAL
+29690048-5,Willamina Tregido,RIESGOSO
+19705704-2,Haven Chadband,RIESGOSO
+16547358-6,Miguela Philip,RIESGOSO
+Febrero
+10678936-9,Carl Tolchar,NORMAL
+20785102-9,Cointon Slayford,NORMAL
+25659095-7,Bree Gainsford,PRECAUCIÓN
+Marzo
+24876065-1,Roscoe Seckington,NORMAL
+29490575-6,Beilul Shalloo,NORMAL
+26121712-5,Lormina Keeping,NORMAL
+20891453-4,Maurine Heinert,NORMAL
+29141151-4,Duffy Rayment,NORMAL
+24652203-6,Martelle Deporte,NORMAL
+16817218-8,Elnora Lindwall,NORMAL
+10139097-8,Eugenie Ivermee,RIESGOSO
+13323397-2,Cordy Von Oertzen,NORMAL
+25500563-8,Miof mela Inskipp,RIESGOSO
+14532232-3,Wylma Prisk,PRECAUCIÓN
+10266981-9,Godwin Bartocci,RIESGOSO
+20767744-9,Gabriello Dallaghan,NORMAL
+14541305-2,Obadias Ryley,PRECAUCIÓN
+Abril
+25700422-3,Vance Lippett,NORMAL
+28493781-1,Humfried Isacq,NORMAL
+18142755-8,Rafa McEniry,NORMAL
+21899610-8,Algernon Gretton,RIESGOSO
+Mayo
+20888040-9,Farly Rushe,NORMAL
+16616220-9,Christine Davidovitz,NORMAL
+Junio
+18111299-6,Salomo McGuiney,NORMAL
+18224018-5,Tersina Bradley,NORMAL
+25688227-3,Tatiania Mathiassen,RIESGOSO
+Julio
+22269630-1,Farr Sent,NORMAL
+Agosto
+23024912-6,Maren De Benedetti,NORMAL
+28138285-0,Nickola Barrowcliff,NORMAL
+19102658-3,Marven Yardley,NORMAL
+Septiembre
+11399719-3,Alister Callow,RIESGOSO
+11216322-1,Kelsy Dibble,PRECAUCIÓN
+Octubre
+20542889-6,Monti Noot,NORMAL
+10474476-9,Lamar Harflete,NORMAL
+11942386-5,Valerye Gell,NORMAL
+Noviembre
+Diciembre
+12407118-4,Michel Najafian,NORMAL
+11768797-1,Fairlie Benfell,RIESGOSO
+13868331-5,Hillel Ellin,PRECAUCIÓN
+Curva de Tolerancia a la Glucosa
+Enero
+10678936-9,Carl Tolchar,PRECAUCIÓN
+23024912-6,Maren De Benedetti,DIABETES
+12407118-4,Michel Najafian,PRECAUCIÓN
+11399719-3,Alister Callow,NORMAL
+17920791-5,Josiah Rosborough,PRECAUCIÓN
+19102658-3,Marven Yardley,PRECAUCIÓN
+21899610-8,Algernon Gretton,PRECAUCIÓN
+29690048-5,Willamina Tregido,PRECAUCIÓN
+11942386-5,Valerye Gell,DIABETES
+19705704-2,Haven Chadband,DIABETES
+Febrero
+20888040-9,Farly Rushe,DIABETES
+20785102-9,Cointon Slayford,PRECAUCIÓN
+11216322-1,Kelsy Dibble,DIABETES
+10474476-9,Lamar Harflete,PRECAUCIÓN
+Marzo
+10397142-7,Hinda Baskerfield,PRECAUCIÓN
+25659095-7,Bree Gainsford,DIABETES
+29490575-6,Beilul Shalloo,PRECAUCIÓN
+11448563-0,Koral Norval,PRECAUCIÓN
+20808830-4,Baird Mannock,NORMAL
+14683950-9,Jerrilee Elsop,PRECAUCIÓN
+Abril
+18111299-6,Salomo McGuiney,PRECAUCIÓN
+25700422-3,Vance Lippett,DIABETES
+28493781-1,Humfried Isacq,DIABETES
+18142755-8,Rafa McEniry,PRECAUCIÓN
+19705704-2,Haven Chadband,PRECAUCIÓN
+Mayo
+20173982-1,Celle Rebeiro,DIABETES
+22269630-1,Farr Sent,PRECAUCIÓN
+18224018-5,Tersina Bradley,DIABETES
+20891453-4,Maurine Heinert,DIABETES
+13868331-5,Hillel Ellin,NORMAL
+Junio
+16616220-9,Christine Davidovitz,PRECAUCIÓN
+Julio
+17151974-7,Stephani Leftley,PRECAUCIÓN
+26121712-5,Lormina Keeping,PRECAUCIÓN
+11942386-5,Valerye Gell,DIABETES
+Agosto
+23024912-6,Maren De Benedetti,PRECAUCIÓN
+24876065-1,Roscoe Seckington,DIABETES
+11768797-1,Fairlie Benfell,PRECAUCIÓN
+20542889-6,Monti Noot,PRECAUCIÓN
+25688227-3,Tatiania Mathiassen,PRECAUCIÓN
+Septiembre
+10397142-7,Hinda Baskerfield,NORMAL
+29730511-9,Annis Pisculli,DIABETES
+18142755-8,Rafa McEniry,PRECAUCIÓN
+13868331-5,Hillel Ellin,PRECAUCIÓN
+19705704-2,Haven Chadband,PRECAUCIÓN
+Octubre
+10678936-9,Carl Tolchar,NORMAL
+11768797-1,Fairlie Benfell,NORMAL
+28138285-0,Nickola Barrowcliff,DIABETES
+19102658-3,Marven Yardley,NORMAL
+Noviembre
+Diciembre
+18111299-6,Salomo McGuiney,NORMAL
+25700422-3,Vance Lippett,DIABETES
+11833915-9,Ronica Bathersby,PRECAUCIÓN
+20542889-6,Monti Noot,NORMAL
+25688227-3,Tatiania Mathiassen,DIABETES
+29690048-5,Willamina Tregido,PRECAUCIÓN

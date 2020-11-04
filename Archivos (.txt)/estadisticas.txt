@@ -1,0 +1,90 @@
+*A*
+Presión Arterial
+Enero,13
+Febrero,8
+Marzo,5
+Abril,6
+Mayo,4
+Junio,4
+Julio,7
+Agosto,2
+Septiembre,6
+Octubre,5
+Noviembre,0
+Diciembre,7
+Colesterol
+Enero,12
+Febrero,3
+Marzo,14
+Abril,4
+Mayo,2
+Junio,3
+Julio,1
+Agosto,3
+Septiembre,2
+Octubre,3
+Noviembre,0
+Diciembre,3
+Curva de Tolerancia a la Glucosa
+Enero,10
+Febrero,4
+Marzo,6
+Abril,5
+Mayo,5
+Junio,1
+Julio,3
+Agosto,5
+Septiembre,5
+Octubre,4
+Noviembre,0
+Diciembre,6
+*B*
+Presión Arterial
+Enero,54%,8%,38%
+Febrero,50%,38%,12%
+Marzo,20%,60%,20%
+Abril,33%,50%,17%
+Mayo,25%,50%,25%
+Junio,50%,50%,0%
+Julio,29%,57%,14%
+Agosto,50%,50%,0%
+Septiembre,50%,17%,33%
+Octubre,20%,60%,20%
+Noviembre,0%,0%,0%
+Diciembre,29%,57%,14%
+Colesterol
+Enero,42%,17%,42%
+Febrero,67%,33%,0%
+Marzo,64%,14%,21%
+Abril,75%,0%,25%
+Mayo,100%,0%,0%
+Junio,67%,0%,33%
+Julio,100%,0%,0%
+Agosto,100%,0%,0%
+Septiembre,0%,50%,50%
+Octubre,100%,0%,0%
+Noviembre,0%,0%,0%
+Diciembre,33%,33%,33%
+Curva de Tolerancia a la Glucosa
+Enero,10%,60%,30%
+Febrero,0%,50%,50%
+Marzo,17%,67%,17%
+Abril,0%,60%,40%
+Mayo,20%,20%,60%
+Junio,0%,100%,0%
+Julio,0%,67%,33%
+Agosto,0%,80%,20%
+Septiembre,20%,60%,20%
+Octubre,75%,0%,25%
+Noviembre,0%,0%,0%
+Diciembre,33%,33%,33%
+*C*
+Presión Arterial
+55%
+Colesterol
+62%
+Curva de Tolerancia a la Glucosa
+21%
+*D*
+Mujeres 19%
+Hombres 17%
